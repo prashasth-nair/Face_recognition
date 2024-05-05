@@ -3,6 +3,8 @@
 ## Overview
 This project is a JavaScript-based application for recognizing faces and expressions in Live video from camera. Leveraging the power of machine learning and computer vision, the program detects faces within videos and predicts the emotions displayed by those faces.
 
+Try it: https://prashasth-nair.github.io/Face_recognition/
+
 ## Features:
 - **Face Detection:** Utilizes state-of-the-art face detection algorithms to locate and outline faces within a video accurately.
 
